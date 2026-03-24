@@ -9,5 +9,4 @@ sentence-transformers
 google-generativeai
 python-pptx
 python-docx
-pytesseract
 pillow
