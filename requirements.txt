@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+numpy
+faiss-cpu
+PyPDF2
+sentence-transformers
+google-generativeai
+python-pptx
+python-docx
+pytesseract
+pillow
